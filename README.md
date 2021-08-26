@@ -5,6 +5,8 @@ Nessa atividade, vamos construir um web service RESTful, fazendo um CRUD de noss
 Usaremos todos os conceitos vistos das aulas 01 a 08 desse módulo.
 
 1-) Descreva aqui o comando para criação do banco (utilizado no mongosh ou compass), que deverá ser chamado tech4music:
+
+
 R: O comando para criar um banco utilizando o mongosh é "use tech4music", lembrando que o banco não é totalmente criado até que seja inserida alguma informação nele.
 
 2-) Descreva o comando para criar a coleção musicas e já inserir 3 músicas abaixo:
